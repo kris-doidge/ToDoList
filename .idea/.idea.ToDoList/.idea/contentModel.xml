@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ToDoList" t="IncludeRecursive">
+        <e p="Api" t="Include">
+          <e p="Controllers" t="Include">
+            <e p="FooController.cs" t="Include" />
+          </e>
+          <e p="Types" t="Include">
+            <e p="BaseController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Application" t="Include">
+          <e p="Foos" t="Include">
+            <e p="FooBuilder.cs" t="Include" />
+            <e p="FooDto.cs" t="Include" />
+            <e p="FooTransformer.cs" t="Include" />
+          </e>
+        </e>
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Core" t="Include">
+          <e p="Interfaces" t="Include">
+            <e p="IBaseRepo.cs" t="Include" />
+            <e p="IBaseRootEntity.cs" t="Include" />
+            <e p="IBuilder.cs" t="Include" />
+            <e p="ITransformer.cs" t="Include" />
+          </e>
+          <e p="Types" t="Include">
+            <e p="BaseRepo.cs" t="Include" />
+            <e p="BaseRootEntity.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Data" t="Include">
+          <e p="BaseMongoRepo.cs" t="Include" />
+        </e>
+        <e p="Databases" t="Include">
+          <e p="FooDatabaseSettings.cs" t="Include" />
+        </e>
+        <e p="Domain" t="Include">
+          <e p="Foos" t="Include">
+            <e p="Foo.cs" t="Include" />
+            <e p="Interfaces" t="Include">
+              <e p="IFooRepo.cs" t="Include" />
+            </e>
+            <e p="Types" t="Include">
+              <e p="FooRepo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="ToDoList.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="ToDoList.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="ToDoList.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_ToDoList.1125593403.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+  </component>
+</project>
